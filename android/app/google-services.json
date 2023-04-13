@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048048356679",
+    "project_id": "custom-painting-login",
+    "storage_bucket": "custom-painting-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048048356679:android:a6dbcec0958eb1df6a5062",
+        "android_client_info": {
+          "package_name": "com.idris.foodapp_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048048356679-al9gccg249h4h2tsdhkjakkpsi8kmle7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuU1BmAlSDwTx5WTC5EHrRQhKKi40bnRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048048356679-al9gccg249h4h2tsdhkjakkpsi8kmle7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
